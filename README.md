@@ -1,4 +1,8 @@
-NOMBRE: EVELYN JULIANA QUEVEDO REYES
-URL: https://github.com/FaztWeb/crud-nodejs-mysql
-DESCRIPCION: La presente aplicación consume datos y los guarda en la base de dato db4 free
+# CRUD Nodejs and Mysql
+this is a basic application crud that uses nodejs in the backend, mysql as database.
 
+# Usefull Commands
+- to init mysql: `mysql -u root -p`
+
+# links
+- [bootstrap 4 theme](https://bootswatch.com/4/lux/bootstrap.min.css)
